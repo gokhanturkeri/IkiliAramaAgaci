@@ -17,3 +17,5 @@ Listedeki her dosya ismi ve uzantısı yazıldıktan sonra içerdiği kelimeler 
 # Programı mingw derleyicisiyle başlatmak için;
 
 İlk önce Mingw'yi kurunuz. Sonrasında ortam değişkenlerinde PATH'e Mingw'yi kurduğunuz yerdeki bin klasörünü ekleyiniz. Daha sonra komut isteminde rar'dan çıkarttığınız klasöre geliniz ve mingw32-make yazınız.
+
+(Başlık dosyaları include içinde ve Kaynak dosyaları src içindedir.)
